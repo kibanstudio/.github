@@ -18,15 +18,15 @@ it's the part that matters most.
 基盤 (*kiban*) means foundation. It's the part you don't see and can't skip. That's the
 bar we hold ourselves to, whatever we're building.
 
-## In the family
+## First up
 
-**[Kiban Dojo](https://github.com/kibanstudio/dojo)** &nbsp;`FREE` &nbsp;`OPEN SOURCE`
+**Kiban Dojo** &nbsp;`FREE` &nbsp;`OPEN SOURCE` &nbsp;`IN THE WORKS`
 
 Get hired as a platform engineer by doing the real job. A free, open-source dojo that
 drops you into the actual work, real tooling, real failures, real fixes, until you can
 do the job and not just talk about it.
 
-More is in the works.
+Not public yet. More is in the works.
 
 ## Around here
 
